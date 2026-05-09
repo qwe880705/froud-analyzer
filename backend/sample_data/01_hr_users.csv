@@ -1,0 +1,11 @@
+employee_id,display_name,email,department,job_title,manager_email,location,employment_status,hire_date,termination_date,is_on_pip,is_pending_transfer,is_pending_resign,hr_risk_flag
+EMP001,David Chen,david.chen@acme-corp.com,Finance,Senior Financial Analyst,michael.lee@acme-corp.com,Singapore,active,2019-03-15,2024-04-01,FALSE,FALSE,TRUE,Submitted resignation 2024-03-01. Last day 2024-04-01.
+EMP002,Lisa Wang,lisa.wang@acme-corp.com,Sales,Regional Sales Manager,sarah.ho@acme-corp.com,Hong Kong,active,2021-07-20,,FALSE,FALSE,FALSE,
+EMP003,James Tanaka,james.tanaka@acme-corp.com,IT,Systems Administrator,kevin.park@acme-corp.com,Tokyo,active,2020-11-10,,TRUE,FALSE,FALSE,On PIP since 2024-02-01. 60-day review period.
+EMP004,Priya Sharma,priya.sharma@acme-corp.com,Finance,Financial Analyst,michael.lee@acme-corp.com,Singapore,active,2022-04-05,,FALSE,FALSE,FALSE,
+EMP005,Michael Lee,michael.lee@acme-corp.com,Finance,Finance Manager,,Singapore,active,2017-08-22,,FALSE,FALSE,FALSE,
+EMP006,Sarah Ho,sarah.ho@acme-corp.com,Sales,Sales Director,,Hong Kong,active,2015-03-10,,FALSE,FALSE,FALSE,
+EMP007,Kevin Park,kevin.park@acme-corp.com,IT,IT Manager,,Tokyo,active,2018-06-15,,FALSE,FALSE,FALSE,
+EMP008,Mei Lin,mei.lin@acme-corp.com,HR,HR Business Partner,,Singapore,active,2020-09-01,,FALSE,FALSE,FALSE,
+EMP009,Raj Kumar,raj.kumar@acme-corp.com,Finance,Junior Financial Analyst,michael.lee@acme-corp.com,Singapore,active,2023-01-16,,FALSE,FALSE,FALSE,
+EMP010,Yuki Sato,yuki.sato@acme-corp.com,Sales,Sales Executive,sarah.ho@acme-corp.com,Tokyo,active,2022-08-30,,FALSE,FALSE,FALSE,

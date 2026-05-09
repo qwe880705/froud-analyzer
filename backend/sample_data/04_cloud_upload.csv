@@ -1,0 +1,7 @@
+EventDateTime,UserId,UserEmail,DeviceId,SourceIP,CloudService,CloudAccount,UploadMethod,FileName,FileSize,SensitivityLabel,IsPersonalAccount,ActionTaken,SessionId,EventId
+2024-03-04T08:32:30Z,EMP001,david.chen@acme-corp.com,DEV-SG-001,103.28.54.12,Google Drive,david.chen.backup@gmail.com,Browser,Q1_2024_Financial_Model_FINAL.xlsx,2456789,Highly Confidential,TRUE,Blocked,SES-001,EVT-CLD-00001
+2024-03-04T08:35:40Z,EMP001,david.chen@acme-corp.com,DEV-SG-001,103.28.54.12,Google Drive,david.chen.backup@gmail.com,Browser,APAC_Revenue_Forecast_2024.xlsx,1834512,Highly Confidential,TRUE,Blocked,SES-001,EVT-CLD-00002
+2024-03-04T09:15:55Z,EMP001,david.chen@acme-corp.com,DEV-SG-001,103.28.54.12,Dropbox,dchen.files@dropbox.com,Browser,Client_Portfolio_Summary.xlsx,987234,Confidential,TRUE,Allowed,SES-002,EVT-CLD-00003
+2024-03-08T10:15:10Z,EMP001,david.chen@acme-corp.com,DEV-SG-001,103.28.54.12,Microsoft OneDrive,david.chen88@outlook.com,Browser,Merger_Analysis_Confidential.xlsx,4567890,Highly Confidential,TRUE,Blocked,SES-003,EVT-CLD-00004
+2024-03-08T10:19:20Z,EMP001,david.chen@acme-corp.com,DEV-SG-001,103.28.54.12,Microsoft OneDrive,david.chen88@outlook.com,Browser,Valuation_Model_v3.xlsx,3892100,Highly Confidential,TRUE,Blocked,SES-003,EVT-CLD-00005
+2024-03-09T14:00:00Z,EMP005,michael.lee@acme-corp.com,DEV-SG-002,103.28.54.50,SharePoint,michael.lee@acme-corp.com,Desktop App,Q1_Finance_Deck.pptx,2345678,Internal,FALSE,Allowed,SES-004,EVT-CLD-00006
