@@ -1,0 +1,7 @@
+EventDateTime,SenderUserId,SenderEmail,RecipientEmails,RecipientDomains,IsExternal,Subject,HasAttachment,AttachmentCount,AttachmentNames,TotalAttachmentSize,IsForward,IsReply,EmailDirection,ClassificationLabel,MessageId,EventId
+2024-03-06T02:44:05Z,EMP002,lisa.wang@acme-corp.com,lisa.wang.personal@gmail.com,gmail.com,TRUE,Q1 Client Review - Confidential,TRUE,1,Q1_Client_Review_2024.pdf,1245000,FALSE,FALSE,Outbound,Confidential,MSG-00001,EVT-EML-00001
+2024-03-06T02:46:55Z,EMP002,lisa.wang@acme-corp.com,lisa.wang.personal@gmail.com,gmail.com,TRUE,FW: Top 20 Client List,TRUE,1,APAC_Top20_Clients_2024.xlsx,567890,TRUE,FALSE,Outbound,Confidential,MSG-00002,EVT-EML-00002
+2024-03-06T02:48:10Z,EMP002,lisa.wang@acme-corp.com,lisa.wang.personal@gmail.com,gmail.com,TRUE,FW: Pricing Strategy H2 2024,TRUE,2,Pricing_Strategy_H2.pptx,2345678,TRUE,FALSE,Outbound,Highly Confidential,MSG-00003,EVT-EML-00003
+2024-03-08T10:00:00Z,EMP001,david.chen@acme-corp.com,david.chen.personal@outlook.com,outlook.com,TRUE,FW: FY2024 Budget Approved Version,TRUE,1,FY2024_Budget_APPROVED.xlsx,3201456,TRUE,FALSE,Outbound,Highly Confidential,MSG-00005,EVT-EML-00005
+2024-03-08T10:02:00Z,EMP001,david.chen@acme-corp.com,david.chen.personal@outlook.com,outlook.com,TRUE,My work files - backup,TRUE,3,Q1_Model.xlsx,7845234,FALSE,FALSE,Outbound,Confidential,MSG-00006,EVT-EML-00006
+2024-03-04T09:30:00Z,EMP005,michael.lee@acme-corp.com,team@acme-corp.com,acme-corp.com,FALSE,Q1 Finance Review Meeting,FALSE,0,,0,FALSE,FALSE,Internal,General,MSG-00007,EVT-EML-00007

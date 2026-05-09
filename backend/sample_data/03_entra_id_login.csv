@@ -1,0 +1,11 @@
+EventDateTime,UserId,UserEmail,UserDisplayName,LoginResult,FailureReason,IPAddress,Location,Country,City,DeviceName,DeviceCompliance,AuthMethod,IsNewDevice,ConditionalAccessStatus,RiskLevel,RiskDetail,EventId
+2024-03-04T08:28:05Z,EMP001,david.chen@acme-corp.com,David Chen,Success,,103.28.54.12,Singapore,SG,Singapore,LAPTOP-DCHEN,Compliant,MFA_Authenticator,FALSE,Passed,none,,EVT-AAD-00001
+2024-03-05T07:08:44Z,EMP001,david.chen@acme-corp.com,David Chen,Success,,103.28.54.12,Singapore,SG,Singapore,LAPTOP-DCHEN,Compliant,MFA_Authenticator,FALSE,Passed,none,,EVT-AAD-00002
+2024-03-06T02:40:11Z,EMP002,lisa.wang@acme-corp.com,Lisa Wang,Success,,203.115.12.88,Hong Kong,HK,Hong Kong,LAPTOP-LWANG,Compliant,MFA_Authenticator,FALSE,Passed,medium,Sign-in from unfamiliar location,EVT-AAD-00003
+2024-03-06T02:41:30Z,EMP002,lisa.wang@acme-corp.com,Lisa Wang,Success,,203.115.12.88,Hong Kong,HK,Hong Kong,LAPTOP-LWANG,Compliant,MFA_Authenticator,FALSE,Passed,medium,,EVT-AAD-00004
+2024-03-07T08:55:33Z,EMP003,james.tanaka@acme-corp.com,James Tanaka,Failure,Invalid password,210.145.33.21,Tokyo,JP,Tokyo,LAPTOP-JTANAKA,Compliant,Password,FALSE,Failed,,high,UserRiskHigh,EVT-AAD-00006
+2024-03-07T08:56:01Z,EMP003,james.tanaka@acme-corp.com,James Tanaka,Failure,Invalid password,210.145.33.21,Tokyo,JP,Tokyo,LAPTOP-JTANAKA,Compliant,Password,FALSE,Failed,,high,UserRiskHigh,EVT-AAD-00007
+2024-03-07T08:56:44Z,EMP003,james.tanaka@acme-corp.com,James Tanaka,Success,,210.145.33.21,Tokyo,JP,Tokyo,LAPTOP-JTANAKA,Compliant,MFA_Authenticator,FALSE,Passed,high,User risk elevated,EVT-AAD-00008
+2024-03-08T10:12:18Z,EMP001,david.chen@acme-corp.com,David Chen,Success,,103.28.54.12,Singapore,SG,Singapore,LAPTOP-DCHEN,Compliant,MFA_Authenticator,FALSE,Passed,none,,EVT-AAD-00009
+2024-03-11T23:50:22Z,EMP002,lisa.wang@acme-corp.com,Lisa Wang,Success,,203.115.12.88,Hong Kong,HK,Hong Kong,LAPTOP-LWANG,Compliant,MFA_Authenticator,FALSE,Passed,medium,,EVT-AAD-00011
+2024-03-04T09:30:00Z,EMP005,michael.lee@acme-corp.com,Michael Lee,Success,,103.28.54.50,Singapore,SG,Singapore,LAPTOP-MLEE,Compliant,MFA_Authenticator,FALSE,Passed,none,,EVT-AAD-00013
